@@ -9,3 +9,7 @@ Refer to commands_ran.txt for the commands ran for the experiments.
 The four experiments finished after letting them run overnight on a PC with a GeForce GTX 1650 gpu.
 
 Library used and versions are in requirements.txt. This was kept the same from the original git repo.
+
+Data:
+The imagenette dataset found here: https://github.com/fastai/imagenette.
+Determined that elis2496 in their code used the 320 px download of imagenette.
